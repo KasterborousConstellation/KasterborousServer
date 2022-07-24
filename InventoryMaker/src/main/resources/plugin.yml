@@ -1,0 +1,4 @@
+name: InventoryMaker
+version: '${project.version}'
+main: inventorymaker.inventorymaker.InventoryMaker
+load: STARTUP
